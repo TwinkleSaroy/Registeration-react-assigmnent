@@ -1,0 +1,75 @@
+.loginform{
+    max-width: 600px;
+    border: 1px solid;
+    background-color: antiquewhite;
+    height: auto;
+    border-radius: 2%;
+    position: relative;
+    padding: 20px;
+    margin: 0%;
+    text-align: center;
+    
+
+}
+.signup{
+    padding: 10px;
+    letter-spacing: 0.5px;
+    font-family: 'auto';
+}
+.inputbox {
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 10px;
+    border-top-right-radius: .02;
+    border: burlywood;
+    letter-spacing: 0.5px;
+    padding: 5px;
+}
+.button{
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    /* color: black; */
+    background-color: cadetblue;
+    padding: -6px;
+    border-color: burlywood;
+}
+.btndiv{
+    margin-top: 25px;
+}
+
+.input-field-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-field-container {
+    display: flex;
+    flex-direction: column;
+}
+.input-label {
+    font-family: auto;
+    text-align: center;
+    width: 240px;
+
+}
+
+.input-field-area {
+
+    width: 300px;
+
+}
+
+.error {
+    text-align: end;
+    color: red;
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.checkbox-field-area {
+    width: 23px;
+}
